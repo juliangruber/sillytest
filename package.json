@@ -1,6 +1,6 @@
 {
   "name": "sillytest",
-  "version": "1.0.18",
+  "version": "1.0.19",
   "repository": "juliangruber/sillytest",
   "scripts": {
     "test": "echo OK"
