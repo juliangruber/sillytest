@@ -1,6 +1,6 @@
 {
   "name": "sillytest",
-  "version": "1.0.28",
+  "version": "1.0.29",
   "repository": "juliangruber/sillytest",
   "scripts": {
     "test": "noes"
