@@ -3,6 +3,6 @@
   "version": "1.0.26",
   "repository": "juliangruber/sillytest",
   "scripts": {
-    "test": "echo OK"
+    "test": "noes"
   }
 }
